@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.user1{   
+    position: absolut;
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.1));
+    border-radius: 10px;
+}
+.research{
+    font-weight: bold;
+    font-size: 20px;
+    color: #2A4565;
+}
+.class{
+    background: #F0F4F9;
+    margin-top: 100px;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cardo{
+    background-color: #002147;
+}
+.num{
+    border-bottom: 5px solid #00BCF5;
+    padding-top: 25px;
+}
+.title{
+    position: absolute;
+    height: 35vh;
+    width: 550px;
+    right: 400px;
+    bottom: 0px;
+    top: 430px;
+}
+.naira{
+    margin-top: 15px;
+    font-size: 25px;
+}
+.potent{
+    font-size: 10px;
+}

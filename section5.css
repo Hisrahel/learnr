@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: rgba(0, 33, 71, 0.9);
+}
+.learn{
+    color: rgba(0, 33, 71, 0.9);
+    font-size: 20px;
+}
